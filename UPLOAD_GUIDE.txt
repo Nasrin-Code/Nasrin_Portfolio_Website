@@ -1,0 +1,25 @@
+NEW PORTFOLIO — UPLOAD GUIDE
+
+This is a completely new static portfolio, not a patch for the previous Next.js website. Keep your existing website until the new one is deployed and checked.
+
+1. Create a NEW GitHub repository named Nasrin-Portfolio-New (or another available name).
+2. Extract this ZIP. Open the extracted folder.
+3. Upload the CONTENTS of this folder into the NEW repository root, not the folder itself. Keep these together: index.html, styles.css, script.js, data.js, README.md, assets/ and UPLOAD_GUIDE.txt.
+4. Confirm index.html is visible at the top level of the new repository.
+5. In Vercel, choose Add New → Project and import the NEW repository.
+6. Framework Preset: Other. No build command is required. Output Directory: .
+7. Deploy and test every section and document link.
+8. Only after the new website works, decide whether to delete the old repository/project.
+
+PRIVACY: This package includes offer letters and older resumes because they were requested. Anyone may access publicly deployed PDFs. Review and remove private documents before deployment. The website UI itself does not show your phone number.
+
+
+PROFILE PHOTO: assets/images/nasrin-profile.png is used in the animated hero section. Keep this image and its folder path unchanged.
+
+
+LATEST UPDATE
+- Added GitHub links for Iris Flower Classification, Spam Mail Detector, and House Price Prediction.
+- Added the supplied LinkedIn post link for Distributed Media Processing Microservice.
+- Certificate cards now include a View certificate/document link only when a matching PDF is present.
+- The image gallery remains clickable and opens images in a larger preview.
+- Do not publish offer letters or resumes containing private information unless you have reviewed them.
